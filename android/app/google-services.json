@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475579068791",
+    "project_id": "flash-chat-ae499",
+    "storage_bucket": "flash-chat-ae499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475579068791:android:be1d35293e648fba26b172",
+        "android_client_info": {
+          "package_name": "co.elder_costa.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475579068791-4q5l59kb3ppjnnkdp8kt06o8rbmif6qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9mBgNXcUKXvCTXxD94qUjdeGq6KszYgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475579068791-4q5l59kb3ppjnnkdp8kt06o8rbmif6qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

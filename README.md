@@ -1,32 +1,25 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Flash Chat ⚡️
 
-## Our Goal
+O projeto Flash Chat foi realizado através do curso da Dra. Angela Yu.
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+>Link do curso: [www.udemy.com/course/flutter-bootcamp-with-dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
+>Link do certificado de conclusão: [www.udemy.com/certificate/elder-costa](https://www.udemy.com/certificate/UC-507a8cec-4034-4718-8df3-59d8559cab50/)
 
-## What you will create
-
-We’re going to build a modern messaging app where users can sign up and log in to chat.
+Todo material pertence a Dra. Angela Yu e a The App Brewery's Complete Flutter Development Bootcamp. Neste projeto, aprendi a incorporar o Firebase para criar autentificação de registro e entrada de usuários, podendo assim enviar mensagens através de um chat onde os dados eram armazenava em uma nuvem. Também fiz uso de animações através do Flutter Hero Widget
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
-## What you will learn
-
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+``` [√] Flutter (Channel stable, v1.2.1, on Microsoft Windows [versÃ£o 10.0.19044.2006], locale pt-BR)
+[!] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
+    ! Some Android licenses not accepted.  To resolve this, run: flutter doctor --android-licenses
+[√] Android Studio (version 3.4)
+[√] Connected device (2 available) ```
 
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+
+
+
